@@ -1,0 +1,6 @@
+langchain>=0.3.27,<0.4
+langchain-google-genai>=2.1.10,<3
+langgraph>=0.6.6,<1
+pydantic>=2.8,<3
+python-dotenv>=1.0,<2
+
